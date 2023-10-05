@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Frankcaleb
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Frontend web developer 
+- 🌱 I use JavaScript, tailwind CSS and React
+- 💫 I am learning more of react and Next.js
+- 💞️ I’m looking to work as a junior developer and work with other developers 
 - 📫 How to reach me belaccal@gmail.com 
 
 <!---
